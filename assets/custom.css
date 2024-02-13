@@ -1,0 +1,12 @@
+.dropdowns-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.dropdowns-container .date_selector {
+    width: 300px;
+    margin: auto;
+}
